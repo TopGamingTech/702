@@ -5,7 +5,7 @@ This is an Offline full chain exploit for PS4 firmware 6.72 & 7.02 with 100% Suc
 ## Steps
 
 * Delete Cookies and Clear Website Data
-* Open the Exploit 
+* Open the Exploit https://topgamingtech.github.io/DarkModderVCLite702/
 * The Exploit gets cached. Turn off the Internet and Open the page and run the Jailbreak (Old Exploit/New Exploit)
 * Run HEN/MIRA after Jailbreak is complete
 * Once Payload loaded successfully, Open the Game
